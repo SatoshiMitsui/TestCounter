@@ -9,9 +9,29 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>CountTestUnitTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>CountUnitTest.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>192F2CF116B76090009C97DB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>192F2D0816B760E4009C97DB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>2B47EB8E14F0AE7A00371407</key>
 		<dict>
 			<key>primary</key>

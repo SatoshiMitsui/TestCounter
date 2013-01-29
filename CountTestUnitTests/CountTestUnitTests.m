@@ -1,14 +1,14 @@
 //
-//  CountTestTests.m
-//  CountTestTests
+//  CountTestUnitTests.m
+//  CountTestUnitTests
 //
-//  Created by Ishikawa Naoki on 2/19/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Created by mitsui on 13/01/29.
+//
 //
 
-#import "CountTestTests.h"
+#import "CountTestUnitTests.h"
 
-@implementation CountTestTests
+@implementation CountTestUnitTests
 
 - (void)setUp
 {
@@ -21,7 +21,7 @@
 - (void)tearDown
 {
     // Tear-down code here.
-    [_counter release];
+    _counter = nil;
     [super tearDown];
 }
 
@@ -62,5 +62,6 @@
     [_counter reset];
     STAssertEquals(_counter.count, 0, @"カウンターが正しくリセットされていません。");
 }
+
 
 @end

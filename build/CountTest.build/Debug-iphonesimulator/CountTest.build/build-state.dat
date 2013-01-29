@@ -1,0 +1,210 @@
+TCountTest
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/Info.plist CountTest/CountTest-Info.plist
+cProcessPCH /var/folders/k3/423fqj9j18l4z_hg8rgpb79h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/CountTest-Prefix-ewaefbwipensgcbkjalakztfvbtm/CountTest-Prefix.pch.pth CountTest/CountTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/main.o /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/CTAppDelegate.o /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/CTAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/Counter.o /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/Counter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/CountTest normal i386
+cGenerateDSYMFile /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app.dSYM /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/CountTest
+cCopyStringsFile /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/en.lproj/InfoPlist.strings CountTest/en.lproj/InfoPlist.strings
+cTouch /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000050EE342F0000000000228FD0
+t1357788207
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050EE343200000000003DCEF0
+t1357788210
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000050EE343E0000000000AB3D60
+t1357788222
+s11222368
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/CTAppDelegate.m
+c000000004F3FA57C0000000000000946
+t1329571196
+s2374
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/CountTest-Prefix.pch
+c000000004F3FA57C0000000000000141
+t1329571196
+s321
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/Counter.m
+c000000004F3FA57C00000000000001D6
+t1329571196
+s470
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/en.lproj/InfoPlist.strings
+c000000004F3FA57C000000000000002D
+t1329571196
+s45
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/main.m
+c000000004F3FA57C000000000000015F
+t1329571196
+s351
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/CTAppDelegate.o
+t2
+s0
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/CountTest.LinkFileList
+c000000005107229600000000000001DD
+t1359422102
+s477
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/Counter.o
+t2
+s0
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app
+t2
+s0
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app.dSYM
+t2
+s0
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/CountTest
+t2
+s0
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/Info.plist
+t2
+s0
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/PkgInfo
+t2
+s0
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/var/folders/k3/423fqj9j18l4z_hg8rgpb79h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/CountTest-Prefix-ewaefbwipensgcbkjalakztfvbtm/CountTest-Prefix.pch.pth
+t2
+s0
+
+NCountTest/CountTest-Info.plist
+c000000004F3FA57C00000000000004BB
+t1329571196
+s1211
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies53ca9b165ab7b641^008eb1165ab7b641^---0#1#0#--18"Check dependencies36"9712BC27-3471-4C4C-9D34-23F98E9BBD62-
+
+CCompileC build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/CTAppDelegate.o /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/CTAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381114903.289214
+e381114903.420350
+r1
+xCompileC
+xbuild/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/CTAppDelegate.o
+x/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/CTAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/CTAppDelegate.m622d4a175ab7b641^919d6b175ab7b641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/CTAppDelegate.m0000000000000000^4011"CompileC build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/CTAppDelegate.o CountTest/CTAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-generated-files.hmap -I/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-own-target-headers.hmap -I/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-all-target-headers.hmap -iquote /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-project-headers.hmap -I/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/DerivedSources/i386 -I/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/DerivedSources -F/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator -include /var/folders/k3/423fqj9j18l4z_hg8rgpb79h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/CountTest-Prefix-ewaefbwipensgcbkjalakztfvbtm/CountTest-Prefix.pch -MMD -MT dependencies -MF /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/CTAppDelegate.d --serialize-diagnostics /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/CTAppDelegate.dia -c /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/CTAppDelegate.m -o /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/CTAppDelegate.o36"A589D00E-39B8-4B7D-9E68-6BDCC7CBEECE-
+
+CCompileC build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/Counter.o /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/Counter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381114903.336840
+e381114903.413793
+r1
+xCompileC
+xbuild/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/Counter.o
+x/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/Counter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/Counter.m016a56175ab7b641^22fe69175ab7b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/Counter.m0000000000000000^3975"CompileC build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/Counter.o CountTest/Counter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-generated-files.hmap -I/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-own-target-headers.hmap -I/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-all-target-headers.hmap -iquote /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-project-headers.hmap -I/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/DerivedSources/i386 -I/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/DerivedSources -F/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator -include /var/folders/k3/423fqj9j18l4z_hg8rgpb79h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/CountTest-Prefix-ewaefbwipensgcbkjalakztfvbtm/CountTest-Prefix.pch -MMD -MT dependencies -MF /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/Counter.d --serialize-diagnostics /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/Counter.dia -c /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/Counter.m -o /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/Counter.o36"A729E3F6-0131-484A-A169-F9B454239F83-
+
+CCompileC build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/main.o /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381114903.287781
+e381114903.335129
+r1
+xCompileC
+xbuild/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/main.o
+x/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/main.m09fc49175ab7b641^e3e155175ab7b641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/main.m0000000000000000^3957"CompileC build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/main.o CountTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-generated-files.hmap -I/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-own-target-headers.hmap -I/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-all-target-headers.hmap -iquote /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-project-headers.hmap -I/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/DerivedSources/i386 -I/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/DerivedSources -F/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator -include /var/folders/k3/423fqj9j18l4z_hg8rgpb79h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/CountTest-Prefix-ewaefbwipensgcbkjalakztfvbtm/CountTest-Prefix.pch -MMD -MT dependencies -MF /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/main.dia -c /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/main.m -o /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/main.o36"510E14F0-0F57-46E8-8816-35B08F7CFD5B-
+
+CCopyStringsFile /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/en.lproj/InfoPlist.strings CountTest/en.lproj/InfoPlist.strings
+s381114904.020720
+e381114904.024658
+r1
+xCopyStringsFile
+x/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/en.lproj/InfoPlist.strings
+xCountTest/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy CountTest/en.lproj/InfoPlist.strings406c05185ab7b641^595206185ab7b641^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/en.lproj/InfoPlist.strings0000000000000000^719"CopyStringsFile build/Debug-iphonesimulator/CountTest.app/en.lproj/InfoPlist.strings CountTest/en.lproj/InfoPlist.strings    cd /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/en.lproj -- CountTest/en.lproj/InfoPlist.strings36"C35B4B39-F8E3-47BC-A2C1-3439512AB33A-
+
+CGenerateDSYMFile /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app.dSYM /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/CountTest
+s381114903.850639
+e381114904.010504
+r1
+xGenerateDSYMFile
+x/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app.dSYM
+x/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/CountTest
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Generating /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app.dSYM93e0d9175ab7b641^26df04185ab7b641^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app.dSYM000000000080d041^802"GenerateDSYMFile build/Debug-iphonesimulator/CountTest.app.dSYM build/Debug-iphonesimulator/CountTest.app/CountTest    cd /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/CountTest -o /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app.dSYM36"EDD897B0-B2D4-4D36-A75C-1B88CC293AA7-
+
+CLd /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/CountTest normal i386
+s381114903.428064
+e381114903.843084
+r1
+xLd
+x/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/CountTest
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Link /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/CountTest95b56d175ab7b641^3eead7175ab7b641^---0#0#0#--1373"Ld build/Debug-iphonesimulator/CountTest.app/CountTest normal i386    cd /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter    setenv IPHONEOS_DEPLOYMENT_TARGET 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator -F/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator -filelist /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/CountTest.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/CountTest36"D733706D-6DB9-403F-8DB7-F793ABDFE4A3-
+
+CProcessInfoPlistFile /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/Info.plist CountTest/CountTest-Info.plist
+s381114902.696015
+e381114902.714317
+r1
+xProcessInfoPlistFile
+x/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/Info.plist
+xCountTest/CountTest-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process CountTest/CountTest-Info.plistf758b2165ab7b641^9aedb6165ab7b641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/CountTest-Info.plist0000000000000000^829"ProcessInfoPlistFile build/Debug-iphonesimulator/CountTest.app/Info.plist CountTest/CountTest-Info.plist    cd /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    builtin-infoPlistUtility CountTest/CountTest-Info.plist -genpkginfo /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app/Info.plist36"EFCC0E0C-B338-4C0A-BB93-B569EDC98412-
+
+CProcessPCH /var/folders/k3/423fqj9j18l4z_hg8rgpb79h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/CountTest-Prefix-ewaefbwipensgcbkjalakztfvbtm/CountTest-Prefix.pch.pth CountTest/CountTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381114902.790764
+e381114903.279477
+r1
+xProcessPCH
+x/var/folders/k3/423fqj9j18l4z_hg8rgpb79h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/CountTest-Prefix-ewaefbwipensgcbkjalakztfvbtm/CountTest-Prefix.pch.pth
+xCountTest/CountTest-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile CountTest/CountTest-Prefix.pch90bdca165ab7b641^1aa547175ab7b641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/CountTest-Prefix.pch0000000000000000^3928"ProcessPCH /var/folders/k3/423fqj9j18l4z_hg8rgpb79h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/CountTest-Prefix-ewaefbwipensgcbkjalakztfvbtm/CountTest-Prefix.pch.pth CountTest/CountTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-generated-files.hmap -I/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-own-target-headers.hmap -I/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-all-target-headers.hmap -iquote /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-project-headers.hmap -I/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/DerivedSources/i386 -I/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/CountTest.build/Debug-iphonesimulator/CountTest.build/DerivedSources -F/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/k3/423fqj9j18l4z_hg8rgpb79h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/CountTest-Prefix-ewaefbwipensgcbkjalakztfvbtm/CountTest-Prefix.pch.dia -c /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/CountTest/CountTest-Prefix.pch -o /var/folders/k3/423fqj9j18l4z_hg8rgpb79h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/CountTest-Prefix-ewaefbwipensgcbkjalakztfvbtm/CountTest-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/k3/423fqj9j18l4z_hg8rgpb79h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/CountTest-Prefix-ewaefbwipensgcbkjalakztfvbtm/CountTest-Prefix.pch.d36"12EEDC13-AF5E-492D-B04E-3DD90DD02327-
+
+CTouch /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app
+s381114904.032963
+e381114904.061071
+r1
+xTouch
+x/Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Touch /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.appc28908185ab7b641^bfd40f185ab7b641^---0#0#0#--528"Touch build/Debug-iphonesimulator/CountTest.app    cd /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/mitsui/Desktop/Alpha_0/sample/Git/TestCount_repo/TestCounter/build/Debug-iphonesimulator/CountTest.app36"CA571267-5324-47FD-8CED-AEB1A7A9CE10-
+
